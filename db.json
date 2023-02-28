@@ -300,6 +300,31 @@
     "Fuel_Source_Descriptor": "Brown Coal",
     "Technology_Type_Primary": "Combustion",
     "Technology_Type_Descriptor": "Steam Sub-Critical"
+  },
+  {
+    "Station_Name": "Eildon Power Station",
+    "START_DATE": "1/07/2016",
+    "STATIONID": "EILDONPD",
+    "Duid": "EILDON3",
+    "Longitude": 145.922582,
+    "Latitude": -37.221774,
+    "Participant_Name": "Pacific Hydro Investments Pty Ltd",
+    "RegionId": "VIC1",
+    "DispatchType": "GENERATOR",
+    "Duid_MaxCapacity": 5,
+    "Duid_RegCapacity": 5,
+    "Classification": "NON-SCHEDULED",
+    "Is_Aggregated": "",
+    "Max_Ramp_Rate_Up": 0,
+    "Min_Ramp_Rate_Up": 0,
+    "Max_Ramp_Rate_Down": 0,
+    "Min_Ramp_Rate_Down": 0,
+    "GenSetId": "EILDON3",
+    "Category": "MARKET",
+    "Fuel_Source_Primary": "Hydro",
+    "Fuel_Source_Descriptor": "Water",
+    "Technology_Type_Primary": "Renewable",
+    "Technology_Type_Descriptor": "Run of River"
   }
 ]
 
