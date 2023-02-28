@@ -25,6 +25,31 @@
     "Fuel_Source_Descriptor": "Natural Gas",
     "Technology_Type_Primary": "Combustion",
     "Technology_Type_Descriptor": ""
+  },
+  {
+    "Station_Name": "Yarrawonga Hydro Power Station",
+    "START_DATE": "1/07/2016",
+    "STATIONID": "YWNGAHYD",
+    "Duid": "YWNGAHYD",
+    "Longitude": 145.999568,
+    "Latitude": -36.009466,
+    "Participant_Name": "AGL Hydro Partnership",
+    "RegionId": "VIC1",
+    "DispatchType": "GENERATOR",
+    "Duid_MaxCapacity": 9,
+    "Duid_RegCapacity": 9,
+    "Classification": "NON-SCHEDULED",
+    "Is_Aggregated": "",
+    "Max_Ramp_Rate_Up": 0,
+    "Min_Ramp_Rate_Up": 0,
+    "Max_Ramp_Rate_Down": 0,
+    "Min_Ramp_Rate_Down": 0,
+    "GenSetId": "YWNGAHYD",
+    "Category": "MARKET",
+    "Fuel_Source_Primary": "Hydro",
+    "Fuel_Source_Descriptor": "Water",
+    "Technology_Type_Primary": "Renewable",
+    "Technology_Type_Descriptor": "Hydro - Gravity"
   }
 ]
 
